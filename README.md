@@ -1,6 +1,6 @@
 # _TaskFlow_
 
-This is a task flow project based on the [T3 Stack](https://create.t3.gg/) developed by Wilfried Dron.
+This is a task flow project based on the [T3 Stack](https://create.t3.gg/).
 ---
 > Simple task flow with OAuth and elegant drag and drop.  
 > Featuring NEXT, PRISMA & MONGODB, TYPESCRIPT, DND and REACT  
