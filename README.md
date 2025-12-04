@@ -2,9 +2,9 @@
 
 This is a task flow project based on the [T3 Stack](https://create.t3.gg/) developed by Wilfried Dron.
 ---
-Simple task flow with OAuth and elegant drag and drop.  
-Featuring NEXT, PRISMA & MONGODB, TYPESCRIPT, DND and REACT  
-ℹ️ For demonstration purpose only  
+> Simple task flow with OAuth and elegant drag and drop.  
+> Featuring NEXT, PRISMA & MONGODB, TYPESCRIPT, DND and REACT  
+> ℹ️ For demonstration purpose only  
 ---
 
 - Authentication with _Next Auth_
