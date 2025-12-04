@@ -2,9 +2,9 @@
 
 This is a task flow project based on the [T3 Stack](https://create.t3.gg/) developed by Wilfried Dron.
 ---
-Simple task flow with OAuth and elegant drag and drop. 
-Featuring NEXT, PRISMA & MONGODB, TYPESCRIPT, DND and REACT 
-ℹ️ For demonstration purpose only
+Simple task flow with OAuth and elegant drag and drop.  
+Featuring NEXT, PRISMA & MONGODB, TYPESCRIPT, DND and REACT  
+ℹ️ For demonstration purpose only  
 ---
 
 - Authentication with _Next Auth_
@@ -13,7 +13,7 @@ Featuring NEXT, PRISMA & MONGODB, TYPESCRIPT, DND and REACT
 - Models for users, accounts, sessions and tasks handling
 
 ## ➡️ Visual REACT components separated from the logic
-Fully de-coupled visual components:
+Fully de-coupled visual components:  
 - Kanban: 2 boards; 
     - one with full feature, 
     - one with landing page demo [_TaskFlow_](https://taskflow.wmdstrategy.com/),
@@ -39,5 +39,4 @@ npx prisma generate
 npm run build          
 ```
 ---
-
 Contact: wilfried.dron[at]wmdstrategy.com
